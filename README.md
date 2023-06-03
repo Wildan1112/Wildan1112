@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wildan1112
 - 👀 I’m interested in UI Design, Frontend Web Developer
-- 🌱 I’m currently learning advanced for Laravel, Tailwind CSS and VueJS
+- 🌱 I’m currently learning advanced for Laravel, Tailwind CSS and ReactJS
 - 💞️ I’m looking to collaborate on UI Designer or Frontend Web Dev
 - 📫 How to reach me
 
